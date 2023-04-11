@@ -2,7 +2,7 @@
 first study
 
 
-원격 저장소와 로컬 저장소 연동하기
+원격 저장소와 로컬 저장소 연동하기 \n
 git 설치 후 git init 입력
 git add 입력
 git commit -m "initialize" 입력
